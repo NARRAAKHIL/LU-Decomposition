@@ -38,7 +38,7 @@ Developed by: Narra Akhil
 
 RegisterNumber: 23003406
 
-To print X matrix (solution to the equations
+To print X matrix (solution to the equations)
 ```
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
